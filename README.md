@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 GP_Camera_Lidar based Autoware
 
+camere : baser 1920
+lidar  : gp_ginues , RoboSense-16
+GNSS   : novatel 718D
+
 
 <div align="center"><img src="docs/images/autoware_logo_1.png" width="400"/></div>
 
