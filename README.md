@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center"><img src="docs/images/autoware_logo_1.png" width="400"/></div>
 
 |Branch | Status |
@@ -257,3 +258,7 @@ Autoware Developers Slack Team (https://autoware.herokuapp.com/)
 To subscribe to the Autoware Developers mailing list,
 - If you have a Google account, go to https://groups.google.com/d/forum/autoware, and click the **Apply to Join Group** button.
 - If you don't have a Google account, send an email to autoware+subscribe@googlegroups.com.
+=======
+# gp_autoware
+self-driving use gp_camera_lidar based autoware
+>>>>>>> 6529cf74fec9396a9084e7ee01f60c95528f7497
